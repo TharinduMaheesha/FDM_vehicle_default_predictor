@@ -20,5 +20,5 @@ App Link : https://vehicle-default-fdm.herokuapp.com/
   2) KNeighbours_classifier_model_final :- File containing the model used for training data using the K Nearest neighbors classifier
   3) Logistic_Regression_model_final :- File containing the model used for training data using the Logistic regression
   4) Random_forest_classifier_model :- File containing the model used for training data using the Random Forest Classifier
-  5) Vehicle_loan_default :- The user web app build using streamlit library
-  6) Vehicle_loan_app_demo :- Demonstration of the app and project background
+  5) Vehicle_loan_default.py :- The user web app build using streamlit library
+  6) Vehicle_loan_app_demo.mp4 :- Demonstration of the app and project background
